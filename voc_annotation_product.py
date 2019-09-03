@@ -3,7 +3,7 @@ from os import getcwd
 
 sets=[('2019', 'train'), ('2019', 'val'), ('2019', 'test')]
 
-classes = ["rex","car","horse"]
+classes = ["rex","car","goofy"]
 
 #for count object number
 class_num = len(classes)
